@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Daria Luchina](https://up.htmlacademy.ru/htmlcss/31/user/1807735).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Котов] (https://htmlacademy.ru/profile/eugene_kotov). 
 
 ---
 
